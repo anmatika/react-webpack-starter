@@ -1,14 +1,13 @@
 import React, { Component } from "react";
-// import "./App.css";
-// import GoldenLayoutWrapper from "./GoldenLayoutWrapper";
+import "./App.scss";
 
 class App extends Component {
   render() {
     return (
       <div className="App">
-        <header className="App-header" />
-        {/* <GoldenLayoutWrapper /> */}
-        foo
+        <header>
+          <h1>React webpack boilerplate</h1>
+        </header>
       </div>
     );
   }
