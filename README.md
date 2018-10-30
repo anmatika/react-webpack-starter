@@ -1,6 +1,6 @@
-# react-webpack-boilerplate
+# React webpack starter
 
-Webpack boilerplate for React project.
+Webpack starter for React project.
 
 ### Installation
 
@@ -19,8 +19,3 @@ npm start
 ```
 npm run build
 ```
-
-### Acks
-
-Fork from this project:
-https://github.com/wbkd/webpack-starter
