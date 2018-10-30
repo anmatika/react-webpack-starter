@@ -6,7 +6,7 @@ class App extends Component {
     return (
       <div className="App">
         <header>
-          <h1>React webpack boilerplate</h1>
+          <h1>React webpack starter</h1>
         </header>
       </div>
     );
